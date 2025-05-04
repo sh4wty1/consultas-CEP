@@ -35,3 +35,4 @@ while True:
     print(f"Estado: {results["estado"]}")
     print(f"Região: {results["regiao"]}")
     print(f"DDD do telefone: {results["ddd"]}")
+    print("CTRL + C para fechar.")
